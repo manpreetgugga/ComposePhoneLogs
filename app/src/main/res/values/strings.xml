@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Users</string>
+    <string name="menu_contacts">Contacts</string>
+    <string name="menu_logs">Call Log</string>
+    <string name="menu_inbox">SMS Inbox</string>
+    <string name="action">Action</string>
+    <string name="perm_call">Application requires call permission to call</string>
+    <string name="perm_send_sms">Application requires sms permission to send messages</string>
+    <string name="perm_display_sms">Application requires sms permission to display messages</string>
+    <string name="perm_display_logs">Application requires call logs permission to display call logs</string>
+    <string name="perm_contacts">Application requires contacts permission to display contacts</string>
+
 </resources>
